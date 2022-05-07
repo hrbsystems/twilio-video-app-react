@@ -1,4 +1,6 @@
-# Twilio Video React App
+# Cloned from Twilio Video React App.
+## the original intention was change the base Twilio implementation creating a customized app for Iberwan.
+## this app was discontinued - Iberwan decides to use Google Meeting integration
 
 [![CircleCI](https://circleci.com/gh/twilio/twilio-video-app-react.svg?style=svg)](https://circleci.com/gh/twilio/twilio-video-app-react)
 
